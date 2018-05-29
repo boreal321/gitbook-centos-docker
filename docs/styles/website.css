@@ -10,3 +10,7 @@
 .markdown-section {
     color: rgba(24,54,105,0.8) !important;
 }
+
+.book-body {
+    background: rgb(0, 0, 255) !important;
+}
